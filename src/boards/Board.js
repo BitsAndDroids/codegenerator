@@ -1,5 +1,5 @@
 import {Pin} from "./Pin";
-import './boards.css';
+
 
 export class Board {
     name;

@@ -1,3 +1,8 @@
-export class Component{
-    
+export class Part {
+    name = "Pushbutton";
+
+    constructor(name) {
+        this.name = name;
+    }
+
 }
